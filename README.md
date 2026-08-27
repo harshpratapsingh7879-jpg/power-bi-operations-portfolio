@@ -30,6 +30,13 @@ Built analytical models and interactive Power BI reports to optimize operational
 
 ---
 
-## Repository Files
-* **`.pbix` File:** Contains all interactive dashboards, DAX measures, and data transformations directly inside this repository.
-* **Datasets:** Cleaned transactional and operational data used for modeling.
+## Project Files & Download
+
+Click the button below to download the interactive Power BI file and explore the data models, DAX measures, and visual dashboards directly in Power BI Desktop:
+
+[![Download PBIX](https://img.shields.io/badge/Download-Power%20BI%20File%20(.pbix)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./dashboard.pbix)
+
+### How to Run Locally:
+1. Download the `.pbix` file using the button above (or find it in the repository file list above).
+2. Open the file in **Power BI Desktop**.
+3. Use the page navigation bar at the bottom to switch between the 5 project views.

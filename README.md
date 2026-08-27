@@ -30,7 +30,6 @@ Built analytical models and interactive Power BI reports to optimize operational
 
 ---
 
-## Dashboard Preview
-[![Power BI Dashboard Preview](https://via.placeholder.com/800x400.png?text=Click+Here+To+Open+Live+Power+BI+Report)](YOUR_POWER_BI_PUBLIC_WEB_URL)
-
-> **Live Report:** [Click here to interact with the dashboard in full screen](YOUR_POWER_BI_PUBLIC_WEB_URL)
+## Repository Files
+* **`.pbix` File:** Contains all interactive dashboards, DAX measures, and data transformations directly inside this repository.
+* **Datasets:** Cleaned transactional and operational data used for modeling.
